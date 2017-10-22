@@ -744,12 +744,12 @@ void COpenCascadeCtrl::BuildFaces()
 	{
 		if ( Travel(checkClose) == false )
 		{
-			// if without new branch?
+			// if without new branch
 			if ( unconnectPnt.size() == 0 )
-			{ break; } // leave if without ant point?
+			{ break; } // leave if without any point
 			else
 			{
-				// reset new root
+				// reset new root if still with point not be used
 				std::vector<int> temp;
 				temp.push_back(unconnectPnt[0]);
 				allTravel.push_back(temp);
