@@ -1,0 +1,9 @@
+C:\STH_OCC\CopyFolder\bin\Debug\CopyFolder.dll
+C:\STH_OCC\CopyFolder\bin\Debug\CopyFolder.pdb
+C:\STH_OCC\CopyFolder\bin\Debug\CopyFolder.xml
+C:\STH_OCC\CopyFolder\obj\Debug\ResolveAssemblyReference.cache
+C:\STH_OCC\CopyFolder\obj\Debug\CopyFolder.Resources.resources
+C:\STH_OCC\CopyFolder\obj\Debug\CopyFolder.vbproj.GenerateResource.Cache
+C:\STH_OCC\CopyFolder\obj\Debug\CopyFolder.dll
+C:\STH_OCC\CopyFolder\obj\Debug\CopyFolder.xml
+C:\STH_OCC\CopyFolder\obj\Debug\CopyFolder.pdb
